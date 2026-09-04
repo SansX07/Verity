@@ -1,0 +1,10 @@
+{
+  "description": "Verity is a fintech platform that automates reconciliation of settlement data against internal ledgers, enhancing accuracy and transparency for finance teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

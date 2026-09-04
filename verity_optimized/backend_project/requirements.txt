@@ -1,0 +1,14 @@
+faker
+pandas
+rapidfuzz
+scikit-learn
+xgboost
+matplotlib
+joblib
+fastapi
+uvicorn
+python-multipart
+anthropic
+google-genai
+requests
+python-dotenv

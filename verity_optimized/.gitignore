@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Backend runtime (generated at request time, never committed)
+backend_project/runtime_data/
+backend_project/backend/.env
+
+# Node / frontend
+node_modules/
+frontend_project/dist/
+frontend_project/.vite/
+
+# OS
+.DS_Store

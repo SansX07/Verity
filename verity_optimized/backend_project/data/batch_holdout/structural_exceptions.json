@@ -1,0 +1,207 @@
+[
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_D7CC070F765447",
+    "order_id": "order_7E7DE9165ED945",
+    "amount": 1689.79,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_32E2D412E9C848",
+    "order_id": "order_AEFD4147800142",
+    "amount": 2763.7,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_27BBA54F592541",
+    "order_id": "order_5EF42A45C5CD41",
+    "amount": 1004.41,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_A496933A3AB34E",
+    "order_id": "order_8D3356F9A70640",
+    "amount": 2007.21,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_920A01A3DF1E46",
+    "order_id": "order_DDA92F01E8314C",
+    "amount": 21227.49,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_F83E64386F0041",
+    "order_id": "order_94DA9AA585764B",
+    "amount": 2568.52,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_0C6E7EBD8A7E41",
+    "order_id": "order_BE801F685BA444",
+    "amount": 239662.99,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_36519A48622A40",
+    "order_id": "order_9D2AF3D736BB47",
+    "amount": 2376.94,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_83DDB5D041B14B",
+    "order_id": "order_351AC2906FFE4E",
+    "amount": 866.01,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_440E18CD0D684C",
+    "order_id": "order_FB95D00A946F4F",
+    "amount": 1106.77,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_193D7160AED042",
+    "order_id": "order_FEE10E199A334D",
+    "amount": 1952.52,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_117A98B8267B4E",
+    "order_id": "order_C2FD9CF413894C",
+    "amount": 1251.01,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_FFA8E281416241",
+    "order_id": "order_BD6CCC29A80045",
+    "amount": 647.07,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_068F3F5D611A47",
+    "order_id": "order_E2E5154C954F47",
+    "amount": 2866.41,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_51AC21A7A5F74E",
+    "order_id": "order_AA77CFDC4BF34A",
+    "amount": 1916.64,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_8D5DA805C3544B",
+    "order_id": "order_E361AC034E1E4A",
+    "amount": 700.81,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_15F68B40C2A046",
+    "order_id": "order_8A158047AC9F4F",
+    "amount": 120.04,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_57F7C91C1E5940",
+    "order_id": "order_FE8457AC23EA48",
+    "amount": 24604.58,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_LEDGER",
+    "payment_id": "pay_CC07BE51D41643",
+    "order_id": "order_E6304E7E9CB144",
+    "amount": 2781.02,
+    "reason": "No ledger record found, even under fuzzy ID matching"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_DE2E1802E30742",
+    "amount": 16590.48,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_220FC502BC0C4F",
+    "amount": 2904.88,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_AB4B6203EBE74E",
+    "amount": 22145.74,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_27B9BF0E78234A",
+    "amount": 656.94,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_9F73207445044C",
+    "amount": 2734.8,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_5A3D30207EE948",
+    "amount": 1801.34,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_3DB2B413DE6547",
+    "amount": 17618.68,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_B4392BFD366444",
+    "amount": 221456.06,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_94CDCE5A29754E",
+    "amount": 114814.54,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_50C287D1661A46",
+    "amount": 2776.08,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_697B1E1BB72D4B",
+    "amount": 1128.17,
+    "reason": "No settlement record found for this ledger entry"
+  },
+  {
+    "type": "MISSING_IN_SETTLEMENT",
+    "order_id": "order_5AFFFDFF1EC445",
+    "amount": 14037.3,
+    "reason": "No settlement record found for this ledger entry"
+  }
+]

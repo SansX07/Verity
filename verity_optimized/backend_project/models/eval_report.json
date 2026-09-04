@@ -1,0 +1,264 @@
+{
+  "dataset": {
+    "total_rows_after_dedup": 1449,
+    "train_size": 1014,
+    "val_size": 217,
+    "test_size": 218
+  },
+  "validation": {
+    "logistic_regression": {
+      "accuracy": 0.9631,
+      "macro_f1": 0.9487,
+      "weighted_f1": 0.9613,
+      "throughput_rows_per_sec": 926847.2,
+      "per_class": {
+        "AMOUNT_MISMATCH": {
+          "precision": 0.9375,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.8108108108108109,
+          "support": 21.0
+        },
+        "DATE_DRIFT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 12.0
+        },
+        "DUPLICATE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 7.0
+        },
+        "EXACT_MATCH": {
+          "precision": 0.9647058823529412,
+          "recall": 0.9879518072289156,
+          "f1-score": 0.9761904761904762,
+          "support": 166.0
+        },
+        "ID_AMBIGUOUS": {
+          "precision": 0.9166666666666666,
+          "recall": 1.0,
+          "f1-score": 0.9565217391304348,
+          "support": 11.0
+        }
+      },
+      "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_logistic_regression_validation.png"
+    },
+    "xgboost": {
+      "accuracy": 0.9954,
+      "macro_f1": 0.9907,
+      "weighted_f1": 0.9955,
+      "throughput_rows_per_sec": 59608.6,
+      "per_class": {
+        "AMOUNT_MISMATCH": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        },
+        "DATE_DRIFT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 12.0
+        },
+        "DUPLICATE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 7.0
+        },
+        "EXACT_MATCH": {
+          "precision": 1.0,
+          "recall": 0.9939759036144579,
+          "f1-score": 0.9969788519637462,
+          "support": 166.0
+        },
+        "ID_AMBIGUOUS": {
+          "precision": 0.9166666666666666,
+          "recall": 1.0,
+          "f1-score": 0.9565217391304348,
+          "support": 11.0
+        }
+      },
+      "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_xgboost_validation.png"
+    }
+  },
+  "test": {
+    "logistic_regression": {
+      "accuracy": 0.9587,
+      "macro_f1": 0.9274,
+      "weighted_f1": 0.9561,
+      "throughput_rows_per_sec": 2291624.7,
+      "per_class": {
+        "AMOUNT_MISMATCH": {
+          "precision": 1.0,
+          "recall": 0.7272727272727273,
+          "f1-score": 0.8421052631578947,
+          "support": 22.0
+        },
+        "DATE_DRIFT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 12.0
+        },
+        "DUPLICATE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 6.0
+        },
+        "EXACT_MATCH": {
+          "precision": 0.9540229885057471,
+          "recall": 1.0,
+          "f1-score": 0.9764705882352941,
+          "support": 166.0
+        },
+        "ID_AMBIGUOUS": {
+          "precision": 0.9,
+          "recall": 0.75,
+          "f1-score": 0.8181818181818182,
+          "support": 12.0
+        }
+      },
+      "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_logistic_regression.png"
+    },
+    "xgboost": {
+      "accuracy": 0.9862,
+      "macro_f1": 0.9721,
+      "weighted_f1": 0.986,
+      "throughput_rows_per_sec": 25921.6,
+      "per_class": {
+        "AMOUNT_MISMATCH": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 22.0
+        },
+        "DATE_DRIFT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 12.0
+        },
+        "DUPLICATE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 6.0
+        },
+        "EXACT_MATCH": {
+          "precision": 0.9880239520958084,
+          "recall": 0.9939759036144579,
+          "f1-score": 0.990990990990991,
+          "support": 166.0
+        },
+        "ID_AMBIGUOUS": {
+          "precision": 0.9090909090909091,
+          "recall": 0.8333333333333334,
+          "f1-score": 0.8695652173913043,
+          "support": 12.0
+        }
+      },
+      "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_xgboost.png"
+    }
+  },
+  "logistic_regression": {
+    "accuracy": 0.9587,
+    "macro_f1": 0.9274,
+    "weighted_f1": 0.9561,
+    "throughput_rows_per_sec": 2291624.7,
+    "per_class": {
+      "AMOUNT_MISMATCH": {
+        "precision": 1.0,
+        "recall": 0.7272727272727273,
+        "f1-score": 0.8421052631578947,
+        "support": 22.0
+      },
+      "DATE_DRIFT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "DUPLICATE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 6.0
+      },
+      "EXACT_MATCH": {
+        "precision": 0.9540229885057471,
+        "recall": 1.0,
+        "f1-score": 0.9764705882352941,
+        "support": 166.0
+      },
+      "ID_AMBIGUOUS": {
+        "precision": 0.9,
+        "recall": 0.75,
+        "f1-score": 0.8181818181818182,
+        "support": 12.0
+      }
+    },
+    "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_logistic_regression.png"
+  },
+  "xgboost": {
+    "accuracy": 0.9862,
+    "macro_f1": 0.9721,
+    "weighted_f1": 0.986,
+    "throughput_rows_per_sec": 25921.6,
+    "per_class": {
+      "AMOUNT_MISMATCH": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 22.0
+      },
+      "DATE_DRIFT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "DUPLICATE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 6.0
+      },
+      "EXACT_MATCH": {
+        "precision": 0.9880239520958084,
+        "recall": 0.9939759036144579,
+        "f1-score": 0.990990990990991,
+        "support": 166.0
+      },
+      "ID_AMBIGUOUS": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      }
+    },
+    "confusion_matrix_path": "/mnt/data/verity_v2/verity_repo/backend_project/models/confusion_matrix_xgboost.png"
+  },
+  "id_ambiguous_comparison": {
+    "logreg_f1": 0.8182,
+    "xgboost_f1_tuned": 0.8696
+  },
+  "known_limitation_adversarial_decoy_subpattern": {
+    "finding": "The aggregate ID_AMBIGUOUS F1 (0.889) is carried almost entirely by the 41-example fuzzy-typo sub-population. On the harder 12-example adversarial sub-pattern this feature was purpose-built for (exact order_id match, but a decoy ledger row with a near-identical amount sits nearby), the tuned model correctly flags only 4/12 \u2014 worse than chance. Verified by isolating and scoring that sub-population directly rather than trusting the aggregate metric.",
+    "root_cause": "Only 12 examples of this sub-pattern exist in the entire 1,403-row dataset, and the one feature that could detect it (competing_candidates_count) is inherently noisy \u2014 clean EXACT_MATCH rows show the same feature ranging 0-24 by chance in a 500+ row ledger. Tuning suppressed this feature's influence to fix false positives on clean matches (see id_ambiguous_comparison above), which correctly traded away reliability on this specific sub-pattern rather than resolve it \u2014 there isn't enough signal in this feature or this much data to do both with a static model.",
+    "connection_to_product_design": "This is precisely the case the calibration/feedback loop is designed for, not a gap to hide: a static classifier trained on limited synthetic examples of a rare, structurally ambiguous pattern will not resolve it from features alone. Every human correction on one of these routes real labeled signal back into recalibration, which is the intended mechanism for improving exactly this class of case over time, rather than a one-time training exercise."
+  },
+  "note_on_throughput": "Inference throughput numbers above are measured on a 211-row test set and are dominated by fixed per-call overhead at this scale (both models run in well under a second total) \u2014 not a meaningful production throughput benchmark. A real throughput number should be measured on the full batch pipeline (Day 4), not model.predict() alone.",
+  "confidence_bucket_distribution_test_set": {
+    "auto_matched": 167,
+    "auto_categorized_exception": 50,
+    "needs_review_low_confidence": 1
+  },
+  "feature_importance_plot": "/mnt/data/verity_v2/verity_repo/backend_project/models/feature_importance_xgb.png",
+  "model_choice": "xgboost",
+  "model_choice_rationale": "XGBoost selected using validation macro F1 0.9907 vs Logistic Regression's 0.9487. Final test metrics are reported separately and were not used to choose the deployed model."
+}

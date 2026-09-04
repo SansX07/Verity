@@ -1,0 +1,3296 @@
+[
+  {
+    "true_txn_id": 0,
+    "payment_id": "pay_EED39C1838D241",
+    "order_id": "order_2B7157F940E943",
+    "true_order_id_in_settlement": "order_2B7157F940E943",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 1,
+    "payment_id": "pay_91D83B433D1048",
+    "order_id": "order_65A5A31CF8D54D",
+    "true_order_id_in_settlement": "order_65A5A31CF8D54D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 2,
+    "payment_id": "pay_075F4BA0872D41",
+    "order_id": "order_996B57C9D89349",
+    "true_order_id_in_settlement": "order_996B57C9D89349",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 3,
+    "payment_id": "pay_D67421E3F7884B",
+    "order_id": "order_374A360F98CE4E",
+    "true_order_id_in_settlement": "order_374A360F98CE4E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 4,
+    "payment_id": "pay_193D7160AED042",
+    "order_id": "order_FEE10E199A334D",
+    "true_order_id_in_settlement": "order_FEE10E199A334D",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 5,
+    "payment_id": "pay_BF5B2CDDF31749",
+    "order_id": "order_C5B5353D23BC49",
+    "true_order_id_in_settlement": "order_C5B5353D23BC49",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 6,
+    "payment_id": "pay_616D68DC488C4F",
+    "order_id": "order_F44B24064CD446",
+    "true_order_id_in_settlement": "order_F44B24064CD446",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 7,
+    "payment_id": "pay_3D870CCCE10740",
+    "order_id": "order_31EF92C8596649",
+    "true_order_id_in_settlement": "order_31EF92C8596649",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 8,
+    "payment_id": "pay_FC7B8F9F458C4B",
+    "order_id": "order_0FB0CD10F77E43",
+    "true_order_id_in_settlement": "order_0FB0CD10F77E43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 9,
+    "payment_id": "pay_B76F87F9481744",
+    "order_id": "order_69B7E541FB0947",
+    "true_order_id_in_settlement": "order_69B7E541FB0947",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 10,
+    "payment_id": "pay_264FA700D7CF46",
+    "order_id": "order_50C287D1661A46",
+    "true_order_id_in_settlement": "order_50C287D1661A46",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 11,
+    "payment_id": "pay_D5A92B7430B944",
+    "order_id": "order_5B81A922EBEC4A",
+    "true_order_id_in_settlement": "order_5B81A922EBEC4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 12,
+    "payment_id": "pay_0273F74C91954B",
+    "order_id": "order_94CDCE5A29754E",
+    "true_order_id_in_settlement": "order_94CDCE5A29754E",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 13,
+    "payment_id": "pay_5007F922D58040",
+    "order_id": "order_7CD97443EA5D42",
+    "true_order_id_in_settlement": "order_7CD97443EA5D42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 14,
+    "payment_id": "pay_685791D00B084F",
+    "order_id": "order_86AECA63589349",
+    "true_order_id_in_settlement": "order_86AECA63589349",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 15,
+    "payment_id": "pay_749FF307ED2648",
+    "order_id": "order_A72830A2245843",
+    "true_order_id_in_settlement": "order_A72830A2245843",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 16,
+    "payment_id": "pay_59D260C9AEFB48",
+    "order_id": "order_5D8F93BE5C3F4B",
+    "true_order_id_in_settlement": "order_5D8F93BE5C3F4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 17,
+    "payment_id": "pay_859525C76BAF42",
+    "order_id": "order_2B105A207C1D4E",
+    "true_order_id_in_settlement": "order_2B105A207C1D4E",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -74.94
+  },
+  {
+    "true_txn_id": 18,
+    "payment_id": "pay_167F58E5901E4B",
+    "order_id": "order_7BCC995C5D0D4C",
+    "true_order_id_in_settlement": "order_7BCC995C5D0D4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 19,
+    "payment_id": "pay_61FCE8E3F69044",
+    "order_id": "order_A94A5CFCE4FB47",
+    "true_order_id_in_settlement": "order_A94A5CFCE4FB47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 20,
+    "payment_id": "pay_25C77A8E37E944",
+    "order_id": "order_B8F26B2E70604D",
+    "true_order_id_in_settlement": "order_B8F26B2E70604D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 21,
+    "payment_id": "pay_2FA876EB8C254B",
+    "order_id": "order_7680AC8ACD7C42",
+    "true_order_id_in_settlement": "order_7680AC8ACD7C42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 22,
+    "payment_id": "pay_EE9A40FFAE8741",
+    "order_id": "order_6DEE89F216A24D",
+    "true_order_id_in_settlement": "order_6DE8E9F216A24D",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 23,
+    "payment_id": "pay_F1A0669910D24C",
+    "order_id": "order_709066F2FFB549",
+    "true_order_id_in_settlement": "order_709066F2FFB549",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 24,
+    "payment_id": "pay_1D7CEF75B76C4F",
+    "order_id": "order_91ED9BCAE3FD40",
+    "true_order_id_in_settlement": "order_91ED9BCAE3FD40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 25,
+    "payment_id": "pay_969E1FDC943A4D",
+    "order_id": "order_95AE25E05A7745",
+    "true_order_id_in_settlement": "order_95AE25E05A7745",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 26,
+    "payment_id": "pay_D4816A15DC3E4D",
+    "order_id": "order_AE15B32483B243",
+    "true_order_id_in_settlement": "order_AE15B32483B243",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 27,
+    "payment_id": "pay_54F52DE6C8EF42",
+    "order_id": "order_9F85630A38DB40",
+    "true_order_id_in_settlement": "order_9F85630A38DB40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 28,
+    "payment_id": "pay_51FD64A3E89A43",
+    "order_id": "order_CAB76D3751A846",
+    "true_order_id_in_settlement": "order_CAB76D3751A846",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 29,
+    "payment_id": "pay_103CBE5935C742",
+    "order_id": "order_26600C661EDF46",
+    "true_order_id_in_settlement": "order_26600C661EDF46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 30,
+    "payment_id": "pay_9E86D6140FE34F",
+    "order_id": "order_1CFCC88111A743",
+    "true_order_id_in_settlement": "order_1CFCC88111A743",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 58.04
+  },
+  {
+    "true_txn_id": 31,
+    "payment_id": "pay_611BE79E748444",
+    "order_id": "order_966275D58D1443",
+    "true_order_id_in_settlement": "order_966275D58D1443",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 32,
+    "payment_id": "pay_597C742883404D",
+    "order_id": "order_2945F19ABDF641",
+    "true_order_id_in_settlement": "order_2945F19ABDF641",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 33,
+    "payment_id": "pay_19EA90CB26DD41",
+    "order_id": "order_1C120947A9A94C",
+    "true_order_id_in_settlement": "order_1C120947A9A94C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 34,
+    "payment_id": "pay_DF5F7FA6A70649",
+    "order_id": "order_680D4723D9D141",
+    "true_order_id_in_settlement": "order_680D4723D9D141",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 35,
+    "payment_id": "pay_CF216710BAD74C",
+    "order_id": "order_F74B2224712A43",
+    "true_order_id_in_settlement": "order_F74B2224712A43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 36,
+    "payment_id": "pay_D24F54FFD93348",
+    "order_id": "order_88C6ABB4E51A4A",
+    "true_order_id_in_settlement": "order_88C6ABB4E51A4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 37,
+    "payment_id": "pay_06455931454548",
+    "order_id": "order_DE97BC264D384C",
+    "true_order_id_in_settlement": "order_DE97BC264D384C",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 38,
+    "payment_id": "pay_4FDCA19602BD4D",
+    "order_id": "order_0660BFD3169C46",
+    "true_order_id_in_settlement": "order_0660BFD3169C46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 39,
+    "payment_id": "pay_ED4F3A4E35BF45",
+    "order_id": "order_912E2D431F3B49",
+    "true_order_id_in_settlement": "order_912E2D431F3B49",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 40,
+    "payment_id": "pay_3FB661DBCF714C",
+    "order_id": "order_28C6122B9C184C",
+    "true_order_id_in_settlement": "order_28C6122B9C184C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 41,
+    "payment_id": "pay_C5FDA043C8184E",
+    "order_id": "order_25141D19ED284E",
+    "true_order_id_in_settlement": "order_25141D19ED284E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 42,
+    "payment_id": "pay_0BF0BD78A5DD4B",
+    "order_id": "order_22326B7A797C48",
+    "true_order_id_in_settlement": "order_22326B7A797C48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 43,
+    "payment_id": "pay_177442EB22714A",
+    "order_id": "order_C506302AD57142",
+    "true_order_id_in_settlement": "order_C506302AD57142",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 44,
+    "payment_id": "pay_CDF5943184E247",
+    "order_id": "order_C70295E4363143",
+    "true_order_id_in_settlement": "order_C70295E4363143",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 45,
+    "payment_id": "pay_606AC8B2929E4C",
+    "order_id": "order_2E418BEEF26F4A",
+    "true_order_id_in_settlement": "order_2E418BEEF26F4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 46,
+    "payment_id": "pay_513D8E25DB8A4C",
+    "order_id": "order_520F476274E646",
+    "true_order_id_in_settlement": "order_520F476274E646",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 47,
+    "payment_id": "pay_CC07BE51D41643",
+    "order_id": "order_E6304E7E9CB144",
+    "true_order_id_in_settlement": "order_E6304E7E9CB144",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 48,
+    "payment_id": "pay_23C5599CD4854B",
+    "order_id": "order_2C41AD83E2874E",
+    "true_order_id_in_settlement": "order_2C41AD83E2874E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 49,
+    "payment_id": "pay_2B3BDAAAC85747",
+    "order_id": "order_2EAFFC975FD44A",
+    "true_order_id_in_settlement": "order_2EAFFC975FD44A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 50,
+    "payment_id": "pay_347090D6766D4F",
+    "order_id": "order_E2CA0B69BD494F",
+    "true_order_id_in_settlement": "order_E2CA0B69DB494F",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 51,
+    "payment_id": "pay_9481E3DD49664C",
+    "order_id": "order_FEDE1BDC51B042",
+    "true_order_id_in_settlement": "order_FEDE1BDC51B042",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 52,
+    "payment_id": "pay_E1DD1029C9CD47",
+    "order_id": "order_5FFE4CE6F5224E",
+    "true_order_id_in_settlement": "order_5FFE4CE6F5224E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 53,
+    "payment_id": "pay_B4742632488F4D",
+    "order_id": "order_C4883BA23CB648",
+    "true_order_id_in_settlement": "order_C4883BA23CB648",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 54,
+    "payment_id": "pay_05319D73661A45",
+    "order_id": "order_92751C4A933E46",
+    "true_order_id_in_settlement": "order_92751C4A933E46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 55,
+    "payment_id": "pay_1AD451CFE7FF42",
+    "order_id": "order_CEA3F9831F944F",
+    "true_order_id_in_settlement": "order_CEA3F9831F944F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 56,
+    "payment_id": "pay_2C8537023F364F",
+    "order_id": "order_59A9018F5E1B40",
+    "true_order_id_in_settlement": "order_59A9018F5E1B40",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -75.11
+  },
+  {
+    "true_txn_id": 57,
+    "payment_id": "pay_597264C95A944E",
+    "order_id": "order_958E2404A5ED45",
+    "true_order_id_in_settlement": "order_958E2404A5ED45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 58,
+    "payment_id": "pay_FBAEE33A8CB941",
+    "order_id": "order_220FC502BC0C4F",
+    "true_order_id_in_settlement": "order_220FC502BC0C4F",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 59,
+    "payment_id": "pay_DA4D2BBA368F4A",
+    "order_id": "order_270432178B8443",
+    "true_order_id_in_settlement": "order_270432178B8443",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 60,
+    "payment_id": "pay_EA59F41CC58345",
+    "order_id": "order_AD769F280BA048",
+    "true_order_id_in_settlement": "order_AD769F280BA048",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 61,
+    "payment_id": "pay_713A4D59E67849",
+    "order_id": "order_90CD1BEC92E94B",
+    "true_order_id_in_settlement": "order_90CD1BEC92E94B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 62,
+    "payment_id": "pay_E24303C18D3A4A",
+    "order_id": "order_E5B5E6E93D7C43",
+    "true_order_id_in_settlement": "order_E5B5E6E93D7C43",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 63,
+    "payment_id": "pay_63B0443637544D",
+    "order_id": "order_CAFD5978EFEE42",
+    "true_order_id_in_settlement": "order_CAFD5978EFEE42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 64,
+    "payment_id": "pay_5E9C9124AAF442",
+    "order_id": "order_091E2283A14945",
+    "true_order_id_in_settlement": "order_091E2283A14945",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 65,
+    "payment_id": "pay_ACF5F885CC7D44",
+    "order_id": "order_32D0390850684F",
+    "true_order_id_in_settlement": "order_32D0390850684F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 66,
+    "payment_id": "pay_83E48578686B40",
+    "order_id": "order_4E045FE6238B45",
+    "true_order_id_in_settlement": "order_4E045FE6238B45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 67,
+    "payment_id": "pay_5A9EF93A49F340",
+    "order_id": "order_2A4CA805A6A64C",
+    "true_order_id_in_settlement": "order_2A4CA805A6A64C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 68,
+    "payment_id": "pay_4B60BF56B1204D",
+    "order_id": "order_2DE6BBFF1BBF42",
+    "true_order_id_in_settlement": "order_2DE6BBFF1BBF42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 69,
+    "payment_id": "pay_920A01A3DF1E46",
+    "order_id": "order_DDA92F01E8314C",
+    "true_order_id_in_settlement": "order_DDA92F01E8314C",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 70,
+    "payment_id": "pay_D1753BEA5CA646",
+    "order_id": "order_BC8DE233438D45",
+    "true_order_id_in_settlement": "order_BC8DE233438D45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 71,
+    "payment_id": "pay_9516703D19684C",
+    "order_id": "order_A4240B7F058A43",
+    "true_order_id_in_settlement": "order_A4240B7F058A43",
+    "category": "DUPLICATE",
+    "is_match": true,
+    "reason": "duplicate settlement entry (same payment_id twice)"
+  },
+  {
+    "true_txn_id": 72,
+    "payment_id": "pay_440E18CD0D684C",
+    "order_id": "order_FB95D00A946F4F",
+    "true_order_id_in_settlement": "order_FB95D00A946F4F",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 73,
+    "payment_id": "pay_DE34B60C297D4B",
+    "order_id": "order_723716AA2ACD4A",
+    "true_order_id_in_settlement": "order_723716AA2ACD4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 74,
+    "payment_id": "pay_E337F32BC3ED47",
+    "order_id": "order_27B9BF0E78234A",
+    "true_order_id_in_settlement": "order_27B9BF0E78234A",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 75,
+    "payment_id": "pay_8B20706E68D248",
+    "order_id": "order_4C447D3C4C9840",
+    "true_order_id_in_settlement": "order_4C447D3C4C9840",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 76,
+    "payment_id": "pay_51AC21A7A5F74E",
+    "order_id": "order_AA77CFDC4BF34A",
+    "true_order_id_in_settlement": "order_AA77CFDC4BF34A",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 77,
+    "payment_id": "pay_B550F2EEB4084D",
+    "order_id": "order_B572D1FA11674F",
+    "true_order_id_in_settlement": "order_B572D1FA11674F",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 78,
+    "payment_id": "pay_92EEF34467E44C",
+    "order_id": "order_DFC5723CE1A04F",
+    "true_order_id_in_settlement": "order_DFC5723CE1A04F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 79,
+    "payment_id": "pay_C62245A9998E43",
+    "order_id": "order_15734B23A7CB45",
+    "true_order_id_in_settlement": "order_15734B23A7CB45",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -144.35
+  },
+  {
+    "true_txn_id": 80,
+    "payment_id": "pay_C1B51E3621E74F",
+    "order_id": "order_E3E3FC0D3DC44A",
+    "true_order_id_in_settlement": "order_E3E3FC0D3DC44A",
+    "category": "DUPLICATE",
+    "is_match": true,
+    "reason": "duplicate settlement entry (same payment_id twice)"
+  },
+  {
+    "true_txn_id": 81,
+    "payment_id": "pay_B3CBF5A4321440",
+    "order_id": "order_AABA2C4AEA5D44",
+    "true_order_id_in_settlement": "order_AABA2C4AEA5D44",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 46.89
+  },
+  {
+    "true_txn_id": 82,
+    "payment_id": "pay_2E2BE5313C794B",
+    "order_id": "order_920E1A11B23349",
+    "true_order_id_in_settlement": "order_920E1A11B23349",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 83,
+    "payment_id": "pay_508E9E1BE2D044",
+    "order_id": "order_297795AF9E4D40",
+    "true_order_id_in_settlement": "order_297795AF9E4D40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 84,
+    "payment_id": "pay_DD882400C0EC42",
+    "order_id": "order_914D99B7770C47",
+    "true_order_id_in_settlement": "order_914D99B7770C47",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 13.24
+  },
+  {
+    "true_txn_id": 85,
+    "payment_id": "pay_0D17847E4A9743",
+    "order_id": "order_59C8DB1F98F549",
+    "true_order_id_in_settlement": "order_59C8DB1F98F549",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 86,
+    "payment_id": "pay_B9BE68A0473041",
+    "order_id": "order_976166515DC04C",
+    "true_order_id_in_settlement": "order_976166515DC04C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 87,
+    "payment_id": "pay_FC102E8ED15A4A",
+    "order_id": "order_3867BC5E4F1E45",
+    "true_order_id_in_settlement": "order_3867BC5E4F1E45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 88,
+    "payment_id": "pay_72E69384413A4E",
+    "order_id": "order_D581554D069544",
+    "true_order_id_in_settlement": "order_D581554D069544",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 89,
+    "payment_id": "pay_899D28CCD30B4B",
+    "order_id": "order_2BF7123742514D",
+    "true_order_id_in_settlement": "order_2BF7123742514D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 90,
+    "payment_id": "pay_B6E2D7B1DB8842",
+    "order_id": "order_833E8E91778242",
+    "true_order_id_in_settlement": "order_833E8E91778242",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 91,
+    "payment_id": "pay_B0F7B784A58243",
+    "order_id": "order_50AF36C8A83646",
+    "true_order_id_in_settlement": "order_50AF36C8A83646",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 92,
+    "payment_id": "pay_54DBD93F75454E",
+    "order_id": "order_AB8E5474CA8444",
+    "true_order_id_in_settlement": "order_AB8E5474CA8444",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 93,
+    "payment_id": "pay_784439F3346747",
+    "order_id": "order_BA4FF39439DE43",
+    "true_order_id_in_settlement": "order_BA4FF39439DE43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 94,
+    "payment_id": "pay_030D108579F34B",
+    "order_id": "order_74030391678D4B",
+    "true_order_id_in_settlement": "order_74030391678D4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 95,
+    "payment_id": "pay_6A7BB390F2E743",
+    "order_id": "order_453A7369183541",
+    "true_order_id_in_settlement": "order_453A7369183541",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 96,
+    "payment_id": "pay_FB9C6AF21F0D48",
+    "order_id": "order_3543D991D2674F",
+    "true_order_id_in_settlement": "order_3543D991D2674F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 97,
+    "payment_id": "pay_6B94B6E169C740",
+    "order_id": "order_0C78755CFEDA4C",
+    "true_order_id_in_settlement": "order_0C78755CFEDA4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 98,
+    "payment_id": "pay_58E04121603F4B",
+    "order_id": "order_F48914F64BAE4D",
+    "true_order_id_in_settlement": "order_F48914F64BAE4D",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 99,
+    "payment_id": "pay_972D36A6C69B42",
+    "order_id": "order_CD687CC68C1D4A",
+    "true_order_id_in_settlement": "order_CD687CC68C1D4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 100,
+    "payment_id": "pay_C073F1C94B9341",
+    "order_id": "order_47C28D9AD3A547",
+    "true_order_id_in_settlement": "order_47C28D9AD3A547",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 101,
+    "payment_id": "pay_27A9EE72094A42",
+    "order_id": "order_F38DE264CADF42",
+    "true_order_id_in_settlement": "order_F38DE264CADF42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 102,
+    "payment_id": "pay_85C69373365740",
+    "order_id": "order_ACD88BAF42F241",
+    "true_order_id_in_settlement": "order_ACD88BAF42F241",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 103,
+    "payment_id": "pay_1DF47EE1DB8743",
+    "order_id": "order_DC74C2BE7ADD4B",
+    "true_order_id_in_settlement": "order_DC74C2BE7ADD4B",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 104,
+    "payment_id": "pay_0A6D7228E2DF49",
+    "order_id": "order_CE8FB493484F40",
+    "true_order_id_in_settlement": "order_CE8FB493484F40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 105,
+    "payment_id": "pay_30B7677629D544",
+    "order_id": "order_71B4DB49D45B4C",
+    "true_order_id_in_settlement": "order_71B4DB49D45B4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 106,
+    "payment_id": "pay_418A33EB54E74A",
+    "order_id": "order_5C6AF66DFCCF4C",
+    "true_order_id_in_settlement": "order_5C6AF66DFCCF4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 107,
+    "payment_id": "pay_2CF2A0C9171A41",
+    "order_id": "order_A173BD3D2D8946",
+    "true_order_id_in_settlement": "order_A173BD3D2D8946",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 108,
+    "payment_id": "pay_FFA8E281416241",
+    "order_id": "order_BD6CCC29A80045",
+    "true_order_id_in_settlement": "order_BD6CCC29A80045",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 109,
+    "payment_id": "pay_4FD6086E61AD44",
+    "order_id": "order_284C4C85C7BB4D",
+    "true_order_id_in_settlement": "order_284C4C85C7BB4D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 110,
+    "payment_id": "pay_AC0BCF79681041",
+    "order_id": "order_D9D2ECC8B0F34E",
+    "true_order_id_in_settlement": "order_D9D2ECC8B0F34E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 111,
+    "payment_id": "pay_02E3CAB4658540",
+    "order_id": "order_A2F18258E95C44",
+    "true_order_id_in_settlement": "order_A2F18258E95C44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 112,
+    "payment_id": "pay_B2985CACF7B44F",
+    "order_id": "order_0363EC25989B44",
+    "true_order_id_in_settlement": "order_0363EC25989B44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 113,
+    "payment_id": "pay_8A563EE32AD549",
+    "order_id": "order_3DB2B413DE6547",
+    "true_order_id_in_settlement": "order_3DB2B413DE6547",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 114,
+    "payment_id": "pay_D4B584C627BD42",
+    "order_id": "order_5A3B28B573A14F",
+    "true_order_id_in_settlement": "order_5A3B28B573A14F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 115,
+    "payment_id": "pay_A78A9A86127F4D",
+    "order_id": "order_7366075BAD8F4D",
+    "true_order_id_in_settlement": "order_7366075BAD8F4D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 116,
+    "payment_id": "pay_B929B96347814E",
+    "order_id": "order_697B1E1BB72D4B",
+    "true_order_id_in_settlement": "order_697B1E1BB72D4B",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 117,
+    "payment_id": "pay_4EEE4955C6B848",
+    "order_id": "order_2F6E260015A24B",
+    "true_order_id_in_settlement": "order_2F6E260015A24B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 118,
+    "payment_id": "pay_8FD5FE8A6D4145",
+    "order_id": "order_E627663A772A4D",
+    "true_order_id_in_settlement": "order_E627663A772A4D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 119,
+    "payment_id": "pay_855507C5625240",
+    "order_id": "order_0FE53007473847",
+    "true_order_id_in_settlement": "order_0FE53007473847",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -84.16
+  },
+  {
+    "true_txn_id": 120,
+    "payment_id": "pay_A09D4A6E65DA42",
+    "order_id": "order_B39D0A1BE68F47",
+    "true_order_id_in_settlement": "order_B39D0A1BE68F47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 121,
+    "payment_id": "pay_CDD0ED058B8447",
+    "order_id": "order_C1EFABE2DAED45",
+    "true_order_id_in_settlement": "order_C1EFABE2DAED45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 122,
+    "payment_id": "pay_61A77772295E46",
+    "order_id": "order_35C21F09F48F45",
+    "true_order_id_in_settlement": "order_35C21F09F48F45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 123,
+    "payment_id": "pay_45782C67C17D48",
+    "order_id": "order_3D3F071EC56348",
+    "true_order_id_in_settlement": "order_3D3F071EC56348",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 124,
+    "payment_id": "pay_B7D5ACE0A86A43",
+    "order_id": "order_8D143E1F3D2F4F",
+    "true_order_id_in_settlement": "order_8D143E1F3D2F4F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 125,
+    "payment_id": "pay_D8BFEFFE560344",
+    "order_id": "order_66DAC8E11B9149",
+    "true_order_id_in_settlement": "order_66DAC8E11B9149",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 126,
+    "payment_id": "pay_A1809ADFC7AE41",
+    "order_id": "order_EF98AE83D9044F",
+    "true_order_id_in_settlement": "order_EF98AE83D9044F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 127,
+    "payment_id": "pay_8FDA5FFCDA2344",
+    "order_id": "order_3257CB42D7644D",
+    "true_order_id_in_settlement": "order_3257CB42D7644D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 128,
+    "payment_id": "pay_FB8195B54BB94E",
+    "order_id": "order_5D48B4943FA24D",
+    "true_order_id_in_settlement": "order_5D48B4943FA24D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 129,
+    "payment_id": "pay_388152A15DB447",
+    "order_id": "order_94A33DA637D84B",
+    "true_order_id_in_settlement": "order_94A33DA637D84B",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 97.47
+  },
+  {
+    "true_txn_id": 130,
+    "payment_id": "pay_9A6DE4A12F254E",
+    "order_id": "order_49577A26FFDB48",
+    "true_order_id_in_settlement": "order_49577A26FFDB48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 131,
+    "payment_id": "pay_3C70E82025154A",
+    "order_id": "order_7F9C30D0D48742",
+    "true_order_id_in_settlement": "order_7F9C30D0D48742",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 132,
+    "payment_id": "pay_8D5DA805C3544B",
+    "order_id": "order_E361AC034E1E4A",
+    "true_order_id_in_settlement": "order_E361AC034E1E4A",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 133,
+    "payment_id": "pay_93D27C45620A4B",
+    "order_id": "order_329188BC22554F",
+    "true_order_id_in_settlement": "order_329188BC22554F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 134,
+    "payment_id": "pay_94216CA74B324B",
+    "order_id": "order_C975EB0DBFA24D",
+    "true_order_id_in_settlement": "order_C975EB0DBFA24D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 135,
+    "payment_id": "pay_C18463CC606143",
+    "order_id": "order_0F02C9D8A6394F",
+    "true_order_id_in_settlement": "order_0F02C9D8A6394F",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 136,
+    "payment_id": "pay_A496933A3AB34E",
+    "order_id": "order_8D3356F9A70640",
+    "true_order_id_in_settlement": "order_8D3356F9A70640",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 137,
+    "payment_id": "pay_526F9C34347D48",
+    "order_id": "order_7D6D2590C4AC43",
+    "true_order_id_in_settlement": "order_7D6D2590C4AC43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 138,
+    "payment_id": "pay_D49F6BD22B1548",
+    "order_id": "order_41C141B2E1794A",
+    "true_order_id_in_settlement": "order_41C141B2E1794A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 139,
+    "payment_id": "pay_41882BE8B76248",
+    "order_id": "order_0789CE9FA77E43",
+    "true_order_id_in_settlement": "order_0789CE9FA77E43",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 126.44
+  },
+  {
+    "true_txn_id": 140,
+    "payment_id": "pay_F629C7E3814644",
+    "order_id": "order_3C579FE7F56749",
+    "true_order_id_in_settlement": "order_3C579FE7F56749",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 141,
+    "payment_id": "pay_2307181378B143",
+    "order_id": "order_BCB0263D57464F",
+    "true_order_id_in_settlement": "order_BCB0263D57464F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 142,
+    "payment_id": "pay_299073C14E9C4A",
+    "order_id": "order_D2684606008749",
+    "true_order_id_in_settlement": "order_D2684606008749",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 143,
+    "payment_id": "pay_724F2DA07E1A42",
+    "order_id": "order_568F85BECD1643",
+    "true_order_id_in_settlement": "order_568F85BECD1643",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -108.25
+  },
+  {
+    "true_txn_id": 144,
+    "payment_id": "pay_68CAA26F10AD47",
+    "order_id": "order_00E94052C61748",
+    "true_order_id_in_settlement": "order_00E94052C61748",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 145,
+    "payment_id": "pay_5D58A4B2165D42",
+    "order_id": "order_6353B968978740",
+    "true_order_id_in_settlement": "order_6353B968978740",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 146,
+    "payment_id": "pay_1ACFD4FD6DA44A",
+    "order_id": "order_B3607504F44141",
+    "true_order_id_in_settlement": "order_B3607504F44141",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 147,
+    "payment_id": "pay_209FF19C0BF348",
+    "order_id": "order_608429619B3746",
+    "true_order_id_in_settlement": "order_608429619B3746",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 148,
+    "payment_id": "pay_5E0D1E33375440",
+    "order_id": "order_2DE404CE326742",
+    "true_order_id_in_settlement": "order_2DE404CE326742",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 149,
+    "payment_id": "pay_3351BB9BA38543",
+    "order_id": "order_FE7ED6E7566B47",
+    "true_order_id_in_settlement": "order_FE7ED6E7566B47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 150,
+    "payment_id": "pay_7C7ED2BE75C24F",
+    "order_id": "order_4F92B613B18C4F",
+    "true_order_id_in_settlement": "order_4F92B613B18C4F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 151,
+    "payment_id": "pay_0C6E7EBD8A7E41",
+    "order_id": "order_BE801F685BA444",
+    "true_order_id_in_settlement": "order_BE801F685BA444",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 152,
+    "payment_id": "pay_39D927D6DEC04D",
+    "order_id": "order_F2F22E3839F74A",
+    "true_order_id_in_settlement": "order_F2F22E3839F74A",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 16.5
+  },
+  {
+    "true_txn_id": 153,
+    "payment_id": "pay_D163BA645F334F",
+    "order_id": "order_EB0E87C584F644",
+    "true_order_id_in_settlement": "order_EB0E87C584F644",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 154,
+    "payment_id": "pay_FC869A704BDF42",
+    "order_id": "order_A8FAD522CABB48",
+    "true_order_id_in_settlement": "order_A8FAD522CABB48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 155,
+    "payment_id": "pay_4A971F2F67CF45",
+    "order_id": "order_708C3F0625524F",
+    "true_order_id_in_settlement": "order_708C3F0625524F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 156,
+    "payment_id": "pay_CB654FAA01C044",
+    "order_id": "order_D3FBB328940B48",
+    "true_order_id_in_settlement": "order_D3FBB328940B48",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 157,
+    "payment_id": "pay_58EE3D0522B24E",
+    "order_id": "order_C8963C51FF854C",
+    "true_order_id_in_settlement": "order_C8963C51FF854C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 158,
+    "payment_id": "pay_16B5CB890D084F",
+    "order_id": "order_D5BABD73EDBD41",
+    "true_order_id_in_settlement": "order_D5BABD73EDBD41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 159,
+    "payment_id": "pay_ACDACDD5ABAE4B",
+    "order_id": "order_C6E4E158686946",
+    "true_order_id_in_settlement": "order_C6E4E158686946",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 160,
+    "payment_id": "pay_6BCBC0375A904C",
+    "order_id": "order_D558BBCE142A43",
+    "true_order_id_in_settlement": "order_D558BBCE142A43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 161,
+    "payment_id": "pay_8DFB83C0003546",
+    "order_id": "order_78067C87D5364B",
+    "true_order_id_in_settlement": "order_78067C87D5364B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 162,
+    "payment_id": "pay_5222342361D84E",
+    "order_id": "order_A3F806693E4A44",
+    "true_order_id_in_settlement": "order_A3F806693E4A44",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -29.27
+  },
+  {
+    "true_txn_id": 163,
+    "payment_id": "pay_8BA5011F3CBB40",
+    "order_id": "order_FEE98A2041694E",
+    "true_order_id_in_settlement": "order_FEE98A2041694E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 164,
+    "payment_id": "pay_0B66B7BD3B8C4E",
+    "order_id": "order_9D3415DB1FE449",
+    "true_order_id_in_settlement": "order_9D3415DB1FE449",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 165,
+    "payment_id": "pay_FE872C09EC3B4B",
+    "order_id": "order_2E300804663C40",
+    "true_order_id_in_settlement": "order_2E300804663C40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 166,
+    "payment_id": "pay_2E350BF760224B",
+    "order_id": "order_0BD2DC2365CE4B",
+    "true_order_id_in_settlement": "order_0BD2DC2365CE4B",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 122.83
+  },
+  {
+    "true_txn_id": 167,
+    "payment_id": "pay_F04A2CB9D20B46",
+    "order_id": "order_769E90C255C546",
+    "true_order_id_in_settlement": "order_769E90C255C546",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 168,
+    "payment_id": "pay_4D0006D4024142",
+    "order_id": "order_7637CDF07D3F45",
+    "true_order_id_in_settlement": "order_7637CDF07D3F45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 169,
+    "payment_id": "pay_B4F46E7BA08A45",
+    "order_id": "order_28DA7657C9B449",
+    "true_order_id_in_settlement": "order_28DA7657C9B449",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 170,
+    "payment_id": "pay_B48C262F174247",
+    "order_id": "order_B3B616B74CA841",
+    "true_order_id_in_settlement": "order_B3B616B74CA841",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 171,
+    "payment_id": "pay_DB16ADFDDBA04A",
+    "order_id": "order_B8BA8F6EBBB845",
+    "true_order_id_in_settlement": "order_B8BA8F6EBBB845",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 172,
+    "payment_id": "pay_25E796DE005246",
+    "order_id": "order_866795C725F740",
+    "true_order_id_in_settlement": "order_866795C725F740",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 173,
+    "payment_id": "pay_189C365CB94145",
+    "order_id": "order_830C9AC5F84D43",
+    "true_order_id_in_settlement": "order_830C9AC5F84D43",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 174,
+    "payment_id": "pay_5C99AA1AC7B04C",
+    "order_id": "order_6E77ADBAB63145",
+    "true_order_id_in_settlement": "order_6E77ADBAB63145",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 175,
+    "payment_id": "pay_1488C6EC9CB94F",
+    "order_id": "order_4AC46558C93146",
+    "true_order_id_in_settlement": "order_4AC46558C93146",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 176,
+    "payment_id": "pay_109179D9CFE140",
+    "order_id": "order_5B7FC804EB0B40",
+    "true_order_id_in_settlement": "order_5B7FC804EB0B40",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -79.02
+  },
+  {
+    "true_txn_id": 177,
+    "payment_id": "pay_BE9B2A8FD8094F",
+    "order_id": "order_3DD508EBDD8644",
+    "true_order_id_in_settlement": "order_3DD508EBDD8644",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 178,
+    "payment_id": "pay_27BBA54F592541",
+    "order_id": "order_5EF42A45C5CD41",
+    "true_order_id_in_settlement": "order_5EF42A45C5CD41",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 179,
+    "payment_id": "pay_40D75CE4654B44",
+    "order_id": "order_F3E2A1D96BE94D",
+    "true_order_id_in_settlement": "order_F3E2A1D96BE94D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 180,
+    "payment_id": "pay_FA3A9D91412A4D",
+    "order_id": "order_6A7A9F17711242",
+    "true_order_id_in_settlement": "order_6A7A9F17711242",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 181,
+    "payment_id": "pay_6560868201E043",
+    "order_id": "order_CE8CB12086E14A",
+    "true_order_id_in_settlement": "order_CE8CB12086E14A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 182,
+    "payment_id": "pay_EFCBC4ADA3D143",
+    "order_id": "order_8950721B3A5545",
+    "true_order_id_in_settlement": "order_8950721B3A5545",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 183,
+    "payment_id": "pay_5A570D1615A847",
+    "order_id": "order_2D622EA0AD9449",
+    "true_order_id_in_settlement": "order_2D622EA0AD9449",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 184,
+    "payment_id": "pay_4468A4322BDD42",
+    "order_id": "order_8EC63CAC351A47",
+    "true_order_id_in_settlement": "order_8EC63CAC351A47",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 185,
+    "payment_id": "pay_436FFC81B8C94C",
+    "order_id": "order_77EF793710AF4B",
+    "true_order_id_in_settlement": "order_77EF793710AF4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 186,
+    "payment_id": "pay_6547036593B44B",
+    "order_id": "order_B5BA895DAF494A",
+    "true_order_id_in_settlement": "order_B5BA895DAF494A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 187,
+    "payment_id": "pay_FE3C439EBF3D4B",
+    "order_id": "order_732BC3057F7841",
+    "true_order_id_in_settlement": "order_732BC3057F7841",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 188,
+    "payment_id": "pay_0C877EC07EA14A",
+    "order_id": "order_133997BADAAC47",
+    "true_order_id_in_settlement": "order_133997BADAAC47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 189,
+    "payment_id": "pay_6D0DE7AA03934E",
+    "order_id": "order_D7C54F4B1ED249",
+    "true_order_id_in_settlement": "order_D7C54F4B1ED249",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 190,
+    "payment_id": "pay_2A9FFD2EDE4D4A",
+    "order_id": "order_A05115F94F8342",
+    "true_order_id_in_settlement": "order_A05115F9F48342",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 191,
+    "payment_id": "pay_27C0EE40B21540",
+    "order_id": "order_931C05DD90D44C",
+    "true_order_id_in_settlement": "order_931C05DD90D44C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 192,
+    "payment_id": "pay_00FC53FE200B47",
+    "order_id": "order_C1AE681EA1AB42",
+    "true_order_id_in_settlement": "order_C1AE681EA1AB42",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -85.96
+  },
+  {
+    "true_txn_id": 193,
+    "payment_id": "pay_ECD42E1AFF264C",
+    "order_id": "order_BCE68407049F44",
+    "true_order_id_in_settlement": "order_BCE86407049F44",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 194,
+    "payment_id": "pay_A4FDB87980DE46",
+    "order_id": "order_759B244065C748",
+    "true_order_id_in_settlement": "order_759B244065C748",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 195,
+    "payment_id": "pay_D7CC070F765447",
+    "order_id": "order_7E7DE9165ED945",
+    "true_order_id_in_settlement": "order_7E7DE9165ED945",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 196,
+    "payment_id": "pay_8E5FFEA6665244",
+    "order_id": "order_383980AA42F245",
+    "true_order_id_in_settlement": "order_383980AA42F245",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 197,
+    "payment_id": "pay_0FC9C3C98AA548",
+    "order_id": "order_72E5706FD1C748",
+    "true_order_id_in_settlement": "order_72E5706FD1C748",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 198,
+    "payment_id": "pay_641CCEF0ED6840",
+    "order_id": "order_98401C02E1014F",
+    "true_order_id_in_settlement": "order_98401C02E1014F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 199,
+    "payment_id": "pay_8183846C6E0B4F",
+    "order_id": "order_48B4622EBB9A45",
+    "true_order_id_in_settlement": "order_48B4622EBB9A45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 200,
+    "payment_id": "pay_25A12D1EAE6B45",
+    "order_id": "order_28821DC7F0CD4C",
+    "true_order_id_in_settlement": "order_28821DC7F0CD4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 201,
+    "payment_id": "pay_454AF34517F042",
+    "order_id": "order_5F7A9841F3A84E",
+    "true_order_id_in_settlement": "order_5F7A9841F3A84E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 202,
+    "payment_id": "pay_7DE50949F4C14D",
+    "order_id": "order_F4CF6DDEE0304E",
+    "true_order_id_in_settlement": "order_F4CF6DDEE0304E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 203,
+    "payment_id": "pay_6E98BEAB66304F",
+    "order_id": "order_0542060E4AC847",
+    "true_order_id_in_settlement": "order_0542060E4AC847",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 204,
+    "payment_id": "pay_EF223FF39FC044",
+    "order_id": "order_B2038873EF664D",
+    "true_order_id_in_settlement": "order_B2038873EF664D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 205,
+    "payment_id": "pay_6DD5B827D4304D",
+    "order_id": "order_8FA99359F2F146",
+    "true_order_id_in_settlement": "order_8FA99359F2F146",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 206,
+    "payment_id": "pay_105C263B41C246",
+    "order_id": "order_5B7A8944907447",
+    "true_order_id_in_settlement": "order_5B7A8944907447",
+    "category": "DUPLICATE",
+    "is_match": true,
+    "reason": "duplicate settlement entry (same payment_id twice)"
+  },
+  {
+    "true_txn_id": 207,
+    "payment_id": "pay_7201A731603D49",
+    "order_id": "order_5A3D30207EE948",
+    "true_order_id_in_settlement": "order_5A3D30207EE948",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 208,
+    "payment_id": "pay_74A97D2ABC6F4B",
+    "order_id": "order_AC70930A9B264B",
+    "true_order_id_in_settlement": "order_AC70930A9B264B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 209,
+    "payment_id": "pay_038305D5075D4F",
+    "order_id": "order_3A2A156A6DDC4A",
+    "true_order_id_in_settlement": "order_3A2A156A6DDC4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 210,
+    "payment_id": "pay_2F9615CFD57147",
+    "order_id": "order_CC2FC8DA21EB42",
+    "true_order_id_in_settlement": "order_CC2FC8DA21EB42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 211,
+    "payment_id": "pay_BA7CE08F91FA4B",
+    "order_id": "order_CAA68798BA284A",
+    "true_order_id_in_settlement": "order_CAA68798BA284A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 212,
+    "payment_id": "pay_E7549A21AE4C40",
+    "order_id": "order_17EB65EC19FF41",
+    "true_order_id_in_settlement": "order_17EB65EC19FF41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 213,
+    "payment_id": "pay_7D9CA704628D47",
+    "order_id": "order_FB3E1574ABAE42",
+    "true_order_id_in_settlement": "order_FB3E1574ABAE42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 214,
+    "payment_id": "pay_2A7380D5B9694B",
+    "order_id": "order_7F4C55C7FC384F",
+    "true_order_id_in_settlement": "order_7F4C55C7FC384F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 215,
+    "payment_id": "pay_86D26293445A4F",
+    "order_id": "order_7068C056D3464B",
+    "true_order_id_in_settlement": "order_7068C056D3464B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 216,
+    "payment_id": "pay_5E72BB21A2DB47",
+    "order_id": "order_EF3396F08B7A44",
+    "true_order_id_in_settlement": "order_EF3396F08B7A44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 217,
+    "payment_id": "pay_6F25B5F07EFE46",
+    "order_id": "order_1388DA47928549",
+    "true_order_id_in_settlement": "order_1388DA47928549",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 68.63
+  },
+  {
+    "true_txn_id": 218,
+    "payment_id": "pay_D765161D156242",
+    "order_id": "order_3BEB921C5F104D",
+    "true_order_id_in_settlement": "order_3BEB921C5F104D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 219,
+    "payment_id": "pay_E062F8271BF64C",
+    "order_id": "order_1D5625259BC14B",
+    "true_order_id_in_settlement": "order_1D5625259BC14B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 220,
+    "payment_id": "pay_600175763C9647",
+    "order_id": "order_49573DA58E1543",
+    "true_order_id_in_settlement": "order_49573DA58E1543",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 221,
+    "payment_id": "pay_73A992408CA249",
+    "order_id": "order_E0CA5B56D65945",
+    "true_order_id_in_settlement": "order_E0CA5B56D65945",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 222,
+    "payment_id": "pay_772FD920072340",
+    "order_id": "order_E294593299F745",
+    "true_order_id_in_settlement": "order_E294593299F745",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 223,
+    "payment_id": "pay_103FE9E918E043",
+    "order_id": "order_9F47F2055F1E4E",
+    "true_order_id_in_settlement": "order_9F47F2055F1E4E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 224,
+    "payment_id": "pay_3FA773815C1345",
+    "order_id": "order_FF51F7280B2E4E",
+    "true_order_id_in_settlement": "order_FF51F7280B2E4E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 225,
+    "payment_id": "pay_890D7A9E2D374D",
+    "order_id": "order_5AFFFDFF1EC445",
+    "true_order_id_in_settlement": "order_5AFFFDFF1EC445",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 226,
+    "payment_id": "pay_48E2896CDE744F",
+    "order_id": "order_C74AA7E9545545",
+    "true_order_id_in_settlement": "order_C74AA7E9545545",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 227,
+    "payment_id": "pay_83DDB5D041B14B",
+    "order_id": "order_351AC2906FFE4E",
+    "true_order_id_in_settlement": "order_351AC2906FFE4E",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 228,
+    "payment_id": "pay_AC845EED08F246",
+    "order_id": "order_847B108E817C42",
+    "true_order_id_in_settlement": "order_847B108E817C42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 229,
+    "payment_id": "pay_997CDE7F76F245",
+    "order_id": "order_3037FE4AB7234F",
+    "true_order_id_in_settlement": "order_3073FE4AB7234F",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 230,
+    "payment_id": "pay_D300A6068EBC4E",
+    "order_id": "order_BC9D9B559BC846",
+    "true_order_id_in_settlement": "order_BC9D9B559BC846",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 231,
+    "payment_id": "pay_09114A4C80E342",
+    "order_id": "order_52B71BBA64264E",
+    "true_order_id_in_settlement": "order_52B71BBA64264E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 232,
+    "payment_id": "pay_F7C5625F4BC846",
+    "order_id": "order_F17AEE99542A45",
+    "true_order_id_in_settlement": "order_F17AEE99542A45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 233,
+    "payment_id": "pay_1C484626E7A442",
+    "order_id": "order_C880DC90DF584F",
+    "true_order_id_in_settlement": "order_C880DC90DF584F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 234,
+    "payment_id": "pay_97E9142CECED4B",
+    "order_id": "order_7BA3167524ED41",
+    "true_order_id_in_settlement": "order_7BA3167524ED41",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 235,
+    "payment_id": "pay_F8E1E055297A49",
+    "order_id": "order_3814A116900F45",
+    "true_order_id_in_settlement": "odrer_3814A116900F45",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 236,
+    "payment_id": "pay_0E3B3FFA735047",
+    "order_id": "order_64D11B6EBC5A4A",
+    "true_order_id_in_settlement": "order_64D11B6EBC5A4A",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 237,
+    "payment_id": "pay_CA98AAAFE42944",
+    "order_id": "order_E1F09EE544264E",
+    "true_order_id_in_settlement": "order_E1F09EE544264E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 238,
+    "payment_id": "pay_D5CB3BE7024E40",
+    "order_id": "order_6BF7C2FDDE714B",
+    "true_order_id_in_settlement": "order_6BF7C2FDDE714B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 239,
+    "payment_id": "pay_15E2389EF6DD4C",
+    "order_id": "order_D9AC8AFBAB3344",
+    "true_order_id_in_settlement": "order_D9AC8AFBAB3344",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 240,
+    "payment_id": "pay_F83E64386F0041",
+    "order_id": "order_94DA9AA585764B",
+    "true_order_id_in_settlement": "order_94DA9AA585764B",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 241,
+    "payment_id": "pay_1968175F934148",
+    "order_id": "order_B2DEE405BC814D",
+    "true_order_id_in_settlement": "order_B2DEE405BC814D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 242,
+    "payment_id": "pay_085CCC3D656F4B",
+    "order_id": "order_DA4535159B8241",
+    "true_order_id_in_settlement": "order_DA4535159B8241",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 243,
+    "payment_id": "pay_392F26E5EA8F4C",
+    "order_id": "order_D259C56E540744",
+    "true_order_id_in_settlement": "order_D259C56E540744",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 244,
+    "payment_id": "pay_01C2D1E2082D4B",
+    "order_id": "order_617F2763C80645",
+    "true_order_id_in_settlement": "order_617F2763C80645",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 245,
+    "payment_id": "pay_5A5D256A600B4D",
+    "order_id": "order_DE2E1802E30742",
+    "true_order_id_in_settlement": "order_DE2E1802E30742",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 246,
+    "payment_id": "pay_57F7C91C1E5940",
+    "order_id": "order_FE8457AC23EA48",
+    "true_order_id_in_settlement": "order_FE8457AC23EA48",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 247,
+    "payment_id": "pay_635120F9824A4B",
+    "order_id": "order_87FA759C8B0F48",
+    "true_order_id_in_settlement": "order_87FA759C8B0F48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 248,
+    "payment_id": "pay_98C5C2A1405747",
+    "order_id": "order_A05955BD819B4B",
+    "true_order_id_in_settlement": "order_A05955BD819B4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 249,
+    "payment_id": "pay_831CFF3B4BC44F",
+    "order_id": "order_7EB4F3D2E19A41",
+    "true_order_id_in_settlement": "order_7EB4F3D2E19A41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 250,
+    "payment_id": "pay_D32834F4FFEC46",
+    "order_id": "order_68536AFC1E024A",
+    "true_order_id_in_settlement": "order_68536AFC1E024A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 251,
+    "payment_id": "pay_34AA6105BC5241",
+    "order_id": "order_F1A58EE3471E4B",
+    "true_order_id_in_settlement": "order_F1A58EE3471E4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 252,
+    "payment_id": "pay_31440CE10AFB44",
+    "order_id": "order_1418E3D808C546",
+    "true_order_id_in_settlement": "order_1418E3D808C546",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 253,
+    "payment_id": "pay_9B96680BCC6A43",
+    "order_id": "order_25449446772944",
+    "true_order_id_in_settlement": "order_25449446772944",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 254,
+    "payment_id": "pay_EC4E5FE479E548",
+    "order_id": "order_FB39E6E8DAA84A",
+    "true_order_id_in_settlement": "order_FB39E6E8DAA84A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 255,
+    "payment_id": "pay_4AEFCC3D5ADE40",
+    "order_id": "order_E4D2621D990740",
+    "true_order_id_in_settlement": "order_E4D2621D990740",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 256,
+    "payment_id": "pay_117A98B8267B4E",
+    "order_id": "order_C2FD9CF413894C",
+    "true_order_id_in_settlement": "order_C2FD9CF413894C",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 257,
+    "payment_id": "pay_8FF04B8FB6C848",
+    "order_id": "order_9F73207445044C",
+    "true_order_id_in_settlement": "order_9F73207445044C",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 258,
+    "payment_id": "pay_B9615D766BAD44",
+    "order_id": "order_A46EF1543A4E44",
+    "true_order_id_in_settlement": "order_A46EF1543A4E44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 259,
+    "payment_id": "pay_6569B13974D14B",
+    "order_id": "order_FCAB930C0F6A4F",
+    "true_order_id_in_settlement": "order_FCBA930C0F6A4F",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 260,
+    "payment_id": "pay_363A78736CEE46",
+    "order_id": "order_D9AC4A0CB27C40",
+    "true_order_id_in_settlement": "order_D9AC4A0CB27C40",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 261,
+    "payment_id": "pay_9D8D266CF93B41",
+    "order_id": "order_FDD9C0CD1E2646",
+    "true_order_id_in_settlement": "order_FDD9C0CD1E2646",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 262,
+    "payment_id": "pay_6C168529F9784C",
+    "order_id": "order_C520B7BB109F4D",
+    "true_order_id_in_settlement": "order_C520B7BB109F4D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 263,
+    "payment_id": "pay_8B49EECC965549",
+    "order_id": "order_4BBDD5BB48014C",
+    "true_order_id_in_settlement": "order_4BBDD5BB48014C",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 264,
+    "payment_id": "pay_317F7AACCDC14D",
+    "order_id": "order_534F23E1303546",
+    "true_order_id_in_settlement": "order_534F23E1303546",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 265,
+    "payment_id": "pay_46A5E75D136241",
+    "order_id": "order_0F64F09F649A4F",
+    "true_order_id_in_settlement": "order_0F64F09F649A4F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 266,
+    "payment_id": "pay_DD25BC77CDB94A",
+    "order_id": "order_0A57188CA8594B",
+    "true_order_id_in_settlement": "order_0A57188CA8594B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 267,
+    "payment_id": "pay_D7B22418138242",
+    "order_id": "order_AB4B6203EBE74E",
+    "true_order_id_in_settlement": "order_AB4B6203EBE74E",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 268,
+    "payment_id": "pay_1C08809F326E41",
+    "order_id": "order_77CF4055BE8B4C",
+    "true_order_id_in_settlement": "order_77CF4055BE8B4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 269,
+    "payment_id": "pay_C8BD45940DC94F",
+    "order_id": "order_44E2B8D7B40945",
+    "true_order_id_in_settlement": "order_44E2B8D7B40945",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 270,
+    "payment_id": "pay_7DEB83FC179945",
+    "order_id": "order_727B9CC106EC42",
+    "true_order_id_in_settlement": "order_727B9CC106EC42",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 271,
+    "payment_id": "pay_E656D7BAB3AC47",
+    "order_id": "order_ED6262CE5AE74A",
+    "true_order_id_in_settlement": "order_ED6262CE5AE74A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 272,
+    "payment_id": "pay_5EF0D811995C45",
+    "order_id": "order_BAEE54852D044A",
+    "true_order_id_in_settlement": "order_BAEE54852D044A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 273,
+    "payment_id": "pay_A8727FCFE0F949",
+    "order_id": "order_FF920ADE3B2B45",
+    "true_order_id_in_settlement": "order_FF920ADE3B2B45",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 274,
+    "payment_id": "pay_86C08D6D7A8E4C",
+    "order_id": "order_808D49C3E4DB44",
+    "true_order_id_in_settlement": "order_808D49C3E4DB44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 275,
+    "payment_id": "pay_31D0A7447BB44F",
+    "order_id": "order_36786ACCEBE74D",
+    "true_order_id_in_settlement": "order_36786ACCEBE74D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 276,
+    "payment_id": "pay_F47970C12FEB44",
+    "order_id": "order_DDD4FAD8053A49",
+    "true_order_id_in_settlement": "order_DDD4FAD8053A49",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 277,
+    "payment_id": "pay_BB4BA7728FDF4B",
+    "order_id": "order_6C6CD5BCD35E48",
+    "true_order_id_in_settlement": "order_6C6CD5BCD35E48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 278,
+    "payment_id": "pay_52CB8273D9A84B",
+    "order_id": "order_2662264F855D47",
+    "true_order_id_in_settlement": "order_2662264F855D47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 279,
+    "payment_id": "pay_1482CE394C9240",
+    "order_id": "order_9A1A8333E02349",
+    "true_order_id_in_settlement": "order_9A1A8333E02349",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 280,
+    "payment_id": "pay_5CFF8430B6A240",
+    "order_id": "order_97BAFDF1647442",
+    "true_order_id_in_settlement": "order_97BAFDF1647442",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 281,
+    "payment_id": "pay_6BE0C1AEE1C243",
+    "order_id": "order_62CFA48E7D444C",
+    "true_order_id_in_settlement": "order_62CFA48E7D444C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 282,
+    "payment_id": "pay_32E2D412E9C848",
+    "order_id": "order_AEFD4147800142",
+    "true_order_id_in_settlement": "order_AEFD4147800142",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 283,
+    "payment_id": "pay_00CF42C2C61845",
+    "order_id": "order_D72111260F4C47",
+    "true_order_id_in_settlement": "order_D72111260F4C47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 284,
+    "payment_id": "pay_E4491016590349",
+    "order_id": "order_65B481E7C44E4F",
+    "true_order_id_in_settlement": "order_65B481E7C44E4F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 285,
+    "payment_id": "pay_3BDCBBF22F5141",
+    "order_id": "order_49608D55AB5F4D",
+    "true_order_id_in_settlement": "order_49608D55AB5F4D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 286,
+    "payment_id": "pay_06F3F76A55294D",
+    "order_id": "order_82C2A233C1214E",
+    "true_order_id_in_settlement": "order_82C2A233C1214E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 287,
+    "payment_id": "pay_40EB57193DEA40",
+    "order_id": "order_21E539BCB48540",
+    "true_order_id_in_settlement": "order_21E539BCB48540",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 288,
+    "payment_id": "pay_8199337E97244E",
+    "order_id": "order_C2CD2A84526942",
+    "true_order_id_in_settlement": "order_C2CD2A84526942",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 289,
+    "payment_id": "pay_0F5E788CD8444B",
+    "order_id": "order_90B67DEEA0724E",
+    "true_order_id_in_settlement": "order_90B67DEEA0724E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 290,
+    "payment_id": "pay_A75638151DFF41",
+    "order_id": "order_ECFDAFD34A7F49",
+    "true_order_id_in_settlement": "order_ECFDAFD34A7F49",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 291,
+    "payment_id": "pay_15F68B40C2A046",
+    "order_id": "order_8A158047AC9F4F",
+    "true_order_id_in_settlement": "order_8A158047AC9F4F",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 292,
+    "payment_id": "pay_D6B2EAF1B21D40",
+    "order_id": "order_C274521502114F",
+    "true_order_id_in_settlement": "order_C274521502114F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 293,
+    "payment_id": "pay_114DE299384544",
+    "order_id": "order_B49BA7B7A7C54F",
+    "true_order_id_in_settlement": "order_B49BA7B7A7C54F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 294,
+    "payment_id": "pay_174975CA0BED40",
+    "order_id": "order_7E912B58A9E848",
+    "true_order_id_in_settlement": "order_7E912B58A9E848",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 295,
+    "payment_id": "pay_43436034F7E345",
+    "order_id": "order_8E165E1CC3F64B",
+    "true_order_id_in_settlement": "order_8E165E1CC3F64B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 296,
+    "payment_id": "pay_CC859C4E35E145",
+    "order_id": "order_B0E6F5723D1248",
+    "true_order_id_in_settlement": "order_B0E6F5723D1248",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 297,
+    "payment_id": "pay_C0567E8ED3F945",
+    "order_id": "order_AF11EA5AC02949",
+    "true_order_id_in_settlement": "order_AF11EA5AC02949",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 298,
+    "payment_id": "pay_E3C5A18077B044",
+    "order_id": "order_8D53EE30A74D45",
+    "true_order_id_in_settlement": "order_8D53EE30A74D45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 299,
+    "payment_id": "pay_F8800B12F82D4C",
+    "order_id": "order_3C614EDBD09A41",
+    "true_order_id_in_settlement": "order_3C614EDBD09A41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 300,
+    "payment_id": "pay_C32295BBF7E849",
+    "order_id": "order_AD67691FECC446",
+    "true_order_id_in_settlement": "order_AD67691FECC446",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 301,
+    "payment_id": "pay_2E9D4A67105B4F",
+    "order_id": "order_79D0A444BA0945",
+    "true_order_id_in_settlement": "order_79D0A444BA0945",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 302,
+    "payment_id": "pay_268123396E654A",
+    "order_id": "order_160254A754EB4E",
+    "true_order_id_in_settlement": "order_160254A754EB4E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 303,
+    "payment_id": "pay_C131E8EC172E4E",
+    "order_id": "order_4365C6ACFF7049",
+    "true_order_id_in_settlement": "order_4365C6ACFF7049",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 304,
+    "payment_id": "pay_7B363A7D254F4A",
+    "order_id": "order_CEDD94ECF87C43",
+    "true_order_id_in_settlement": "order_CEDD94ECF87C43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 305,
+    "payment_id": "pay_C72ABFD974A04E",
+    "order_id": "order_49D9B0B9762844",
+    "true_order_id_in_settlement": "order_49D9B0B9762844",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 306,
+    "payment_id": "pay_DC5D1227AF4C4D",
+    "order_id": "order_2F1781376D664D",
+    "true_order_id_in_settlement": "order_2F1781376D664D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 307,
+    "payment_id": "pay_B14868C579C743",
+    "order_id": "order_B7C1ACF5079E46",
+    "true_order_id_in_settlement": "order_B7C1ACF5079E46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 308,
+    "payment_id": "pay_98E7D50366DF4D",
+    "order_id": "order_6C12B5F6E2F64B",
+    "true_order_id_in_settlement": "order_6C12B5F6E2F64B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 309,
+    "payment_id": "pay_7F02FF89F24848",
+    "order_id": "order_0CEFF0E7112844",
+    "true_order_id_in_settlement": "order_0CEFF0E7112844",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 310,
+    "payment_id": "pay_EBE7925CA3C64A",
+    "order_id": "order_44BA2A34FAEF45",
+    "true_order_id_in_settlement": "order_44BA2A34FAEF45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 311,
+    "payment_id": "pay_75C146FAB7BA4F",
+    "order_id": "order_DEC14B8AE4214B",
+    "true_order_id_in_settlement": "order_DEC14B8AE4214B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 312,
+    "payment_id": "pay_27AF6CEF7C694A",
+    "order_id": "order_DF3EF7EFE0D341",
+    "true_order_id_in_settlement": "order_DF3EF7EFE0D341",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 313,
+    "payment_id": "pay_DA4C5F41B76744",
+    "order_id": "order_24964AC4217749",
+    "true_order_id_in_settlement": "order_24964AC4217749",
+    "category": "DUPLICATE",
+    "is_match": true,
+    "reason": "duplicate settlement entry (same payment_id twice)"
+  },
+  {
+    "true_txn_id": 314,
+    "payment_id": "pay_AAF697E17D1644",
+    "order_id": "order_3B498C026BB241",
+    "true_order_id_in_settlement": "order_3B498C026BB241",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 315,
+    "payment_id": "pay_305E1BF14DE346",
+    "order_id": "order_817A64958D9042",
+    "true_order_id_in_settlement": "order_817A64958D9042",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 316,
+    "payment_id": "pay_C15D05BC522241",
+    "order_id": "order_E0FCC425CF7E41",
+    "true_order_id_in_settlement": "order_E0FCC425CF7E41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 317,
+    "payment_id": "pay_3DD1520073B74B",
+    "order_id": "order_F85B8AEA51FE45",
+    "true_order_id_in_settlement": "order_F85B8AEA51FE45",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 318,
+    "payment_id": "pay_6C906D38E4074E",
+    "order_id": "order_E26F7D80BEA445",
+    "true_order_id_in_settlement": "order_E26F7D80BEA445",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 119.35
+  },
+  {
+    "true_txn_id": 319,
+    "payment_id": "pay_09DDACE570B943",
+    "order_id": "order_893C813CC46F43",
+    "true_order_id_in_settlement": "order_893C813CC46F43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 320,
+    "payment_id": "pay_04333D6F060646",
+    "order_id": "order_F9957662CFA54E",
+    "true_order_id_in_settlement": "order_F9957662CFA54E",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 321,
+    "payment_id": "pay_3D4214D2090D4D",
+    "order_id": "order_221F65A8CF664F",
+    "true_order_id_in_settlement": "order_221F65A8CF664F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 322,
+    "payment_id": "pay_2E69639C54DE4A",
+    "order_id": "order_A09A0EF90D3D41",
+    "true_order_id_in_settlement": "order_A09A0EF90D3D41",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 323,
+    "payment_id": "pay_039C752D7C244E",
+    "order_id": "order_9E0BD632788646",
+    "true_order_id_in_settlement": "order_9E0BD632788646",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 324,
+    "payment_id": "pay_F6053EF8016346",
+    "order_id": "order_F2B5FDE809E243",
+    "true_order_id_in_settlement": "order_F2B5FDE809E243",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 325,
+    "payment_id": "pay_AD7044E5642148",
+    "order_id": "order_6088F4530EBE4C",
+    "true_order_id_in_settlement": "order_6088F4530EBE4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 326,
+    "payment_id": "pay_D633978957514F",
+    "order_id": "order_27A1AF9EE0004D",
+    "true_order_id_in_settlement": "order_27A1AF9EE0004D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 327,
+    "payment_id": "pay_5B8CB319F7E943",
+    "order_id": "order_306CBB048B294B",
+    "true_order_id_in_settlement": "order_306CBB048B294B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 328,
+    "payment_id": "pay_7D4405613DD642",
+    "order_id": "order_1A1EEADB714B47",
+    "true_order_id_in_settlement": "order_1A1EEADB714B47",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 329,
+    "payment_id": "pay_2D0BABE796CC46",
+    "order_id": "order_C3B9D6C14BF042",
+    "true_order_id_in_settlement": "order_C3B9D6C14BF042",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 330,
+    "payment_id": "pay_4B9D49AA3EEC4E",
+    "order_id": "order_D2209C9FB7C94D",
+    "true_order_id_in_settlement": "order_D2209C9FB7C94D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 331,
+    "payment_id": "pay_227D04A4879B46",
+    "order_id": "order_CE731AA6423645",
+    "true_order_id_in_settlement": "order_CE731AA6423645",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 332,
+    "payment_id": "pay_1293C03CC9C04F",
+    "order_id": "order_4C453CA3497E44",
+    "true_order_id_in_settlement": "order_4C453CA3497E44",
+    "category": "DUPLICATE",
+    "is_match": true,
+    "reason": "duplicate settlement entry (same payment_id twice)"
+  },
+  {
+    "true_txn_id": 333,
+    "payment_id": "pay_3ABE173FAA4848",
+    "order_id": "order_F8EB53ECC8BB44",
+    "true_order_id_in_settlement": "order_FE8B53ECC8BB44",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 334,
+    "payment_id": "pay_0F2D6CC5EDEF41",
+    "order_id": "order_8FE23C50296745",
+    "true_order_id_in_settlement": "order_8FE23C50296745",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 335,
+    "payment_id": "pay_75C130039E3D41",
+    "order_id": "order_3F85FF58C8B144",
+    "true_order_id_in_settlement": "order_3F85FF58C8B144",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 336,
+    "payment_id": "pay_8ED15F82C05640",
+    "order_id": "order_2C67375D0CF64D",
+    "true_order_id_in_settlement": "order_2C67375D0CF64D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 337,
+    "payment_id": "pay_F910811F299345",
+    "order_id": "order_1297728E48954E",
+    "true_order_id_in_settlement": "order_1297728E48954E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 338,
+    "payment_id": "pay_466EC2F1BE4740",
+    "order_id": "order_61547043D9FD4F",
+    "true_order_id_in_settlement": "order_61547043D9FD4F",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -39.55
+  },
+  {
+    "true_txn_id": 339,
+    "payment_id": "pay_A9E3FA31C70548",
+    "order_id": "order_027F1380C0D944",
+    "true_order_id_in_settlement": "order_027F1380C0D944",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 340,
+    "payment_id": "pay_AF073D54A0AA42",
+    "order_id": "order_F220CBE86FA445",
+    "true_order_id_in_settlement": "order_F220CBE86FA445",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 341,
+    "payment_id": "pay_C8DA95EB081F49",
+    "order_id": "order_BFACBBAB1B3745",
+    "true_order_id_in_settlement": "order_BFACBBAB1B3745",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 342,
+    "payment_id": "pay_7013906E6B454F",
+    "order_id": "order_20D323C3243E44",
+    "true_order_id_in_settlement": "order_20D323C3243E44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 343,
+    "payment_id": "pay_CE7BC8ECEAFE42",
+    "order_id": "order_12137BC2F32D46",
+    "true_order_id_in_settlement": "order_12137BC2F32D46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 344,
+    "payment_id": "pay_CF0F1FDBBD1648",
+    "order_id": "order_72787758316545",
+    "true_order_id_in_settlement": "order_72787758316545",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 345,
+    "payment_id": "pay_9481BE1922E849",
+    "order_id": "order_A0F19A3E5CE64A",
+    "true_order_id_in_settlement": "order_A0F19A3E5CE64A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 346,
+    "payment_id": "pay_227C98DF2EAC4E",
+    "order_id": "order_0A4AAA30D19443",
+    "true_order_id_in_settlement": "order_0A4AAA30D19443",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 347,
+    "payment_id": "pay_8932386C4FD844",
+    "order_id": "order_3EF13CEC23CD43",
+    "true_order_id_in_settlement": "order_3EF13CEC23CD43",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -49.57
+  },
+  {
+    "true_txn_id": 348,
+    "payment_id": "pay_DC9CCDD7477540",
+    "order_id": "order_6BAAE6E8E64448",
+    "true_order_id_in_settlement": "order_6BAAE6E8E64448",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 349,
+    "payment_id": "pay_F47DDAA6E8CA4A",
+    "order_id": "order_7C9EDBB2CCE143",
+    "true_order_id_in_settlement": "order_7C9EDBB2CCE143",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 350,
+    "payment_id": "pay_7B7AD91B7E2F41",
+    "order_id": "order_75143D908C7B48",
+    "true_order_id_in_settlement": "order_75143D908C7B48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 351,
+    "payment_id": "pay_02288AEF2B0C42",
+    "order_id": "order_353DC72FCFC840",
+    "true_order_id_in_settlement": "order_353DC72FCFC840",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 352,
+    "payment_id": "pay_1D93428D35D242",
+    "order_id": "order_B4392BFD366444",
+    "true_order_id_in_settlement": "order_B4392BFD366444",
+    "category": "MISSING_IN_SETTLEMENT",
+    "is_match": false,
+    "reason": "settlement pending (T+2 cycle not yet elapsed at batch cutoff)"
+  },
+  {
+    "true_txn_id": 353,
+    "payment_id": "pay_939A05DE3B0940",
+    "order_id": "order_40E79F4AC7884F",
+    "true_order_id_in_settlement": "order_40E79F4AC7884F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 354,
+    "payment_id": "pay_29C69AAFC22A45",
+    "order_id": "order_E252571744034C",
+    "true_order_id_in_settlement": "order_E252571744034C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 355,
+    "payment_id": "pay_4B97451CDEAE42",
+    "order_id": "order_912664737CF042",
+    "true_order_id_in_settlement": "order_912664737CF042",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 356,
+    "payment_id": "pay_C0BF8455AAC34F",
+    "order_id": "order_AB86A18FF9B748",
+    "true_order_id_in_settlement": "order_AB86A18FF9B748",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": 70.2
+  },
+  {
+    "true_txn_id": 357,
+    "payment_id": "pay_DA7817EB4E2840",
+    "order_id": "order_53B692B0A7CA46",
+    "true_order_id_in_settlement": "order_53B692B0A7CA46",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 358,
+    "payment_id": "pay_D49B6FEE32D14B",
+    "order_id": "order_E36259BEA07048",
+    "true_order_id_in_settlement": "order_E36259BEA07048",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 359,
+    "payment_id": "pay_FD116331ED9E44",
+    "order_id": "order_07128C430A9F4F",
+    "true_order_id_in_settlement": "order_07128C430A9F4F",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 360,
+    "payment_id": "pay_068F3F5D611A47",
+    "order_id": "order_E2E5154C954F47",
+    "true_order_id_in_settlement": "order_E2E5154C954F47",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 361,
+    "payment_id": "pay_414778C37F7749",
+    "order_id": "order_24F3EF51D14842",
+    "true_order_id_in_settlement": "roder_24F3EF51D14842",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 362,
+    "payment_id": "pay_C7C7D3C6E2204D",
+    "order_id": "order_D728265413BD48",
+    "true_order_id_in_settlement": "order_D728265413BD48",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 363,
+    "payment_id": "pay_47CAC9747DAD43",
+    "order_id": "order_8E658C1FA7E842",
+    "true_order_id_in_settlement": "order_8E658C1FA7E842",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 364,
+    "payment_id": "pay_9F7F25DC154842",
+    "order_id": "order_BC893D9A3BC14C",
+    "true_order_id_in_settlement": "order_BC893D9A3BC14C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 365,
+    "payment_id": "pay_D916992AA42744",
+    "order_id": "order_CCBB697069E244",
+    "true_order_id_in_settlement": "order_CCBB697069E244",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 366,
+    "payment_id": "pay_428CEFCD99564A",
+    "order_id": "order_AC0FCB9C622549",
+    "true_order_id_in_settlement": "order_AC0FCB9C622549",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 367,
+    "payment_id": "pay_1F5D687CAB3A4B",
+    "order_id": "order_3169BE10D1E049",
+    "true_order_id_in_settlement": "order_3169BE10D1E049",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 368,
+    "payment_id": "pay_EAE07AEBEBE543",
+    "order_id": "order_ADB008160D4C4E",
+    "true_order_id_in_settlement": "order_ADB008160D4C4E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 369,
+    "payment_id": "pay_CF2CA33BBC8444",
+    "order_id": "order_541F5EB839B347",
+    "true_order_id_in_settlement": "order_541F5EB839B347",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 370,
+    "payment_id": "pay_620EB2E803C44D",
+    "order_id": "order_B182AC5E201840",
+    "true_order_id_in_settlement": "order_B182AC5E201840",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 371,
+    "payment_id": "pay_5127EBDBBFFB40",
+    "order_id": "order_E4010D15299C46",
+    "true_order_id_in_settlement": "order_E4010D15299C46",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -114.5
+  },
+  {
+    "true_txn_id": 372,
+    "payment_id": "pay_901F8BB5418F4A",
+    "order_id": "order_CFDAD842BE0D4B",
+    "true_order_id_in_settlement": "order_CFDAD842BE0D4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 373,
+    "payment_id": "pay_C8D0466100D44D",
+    "order_id": "order_1BDAF1DF5FC64A",
+    "true_order_id_in_settlement": "order_1BDAF1DF5FC64A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 374,
+    "payment_id": "pay_7F172EE2A63F49",
+    "order_id": "order_857AFBA4AFE04D",
+    "true_order_id_in_settlement": "order_857AFBA4AFE04D",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 375,
+    "payment_id": "pay_9C8CA78DE4F34F",
+    "order_id": "order_EBA413CB90F547",
+    "true_order_id_in_settlement": "order_EBA413CB90F547",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 376,
+    "payment_id": "pay_AEB1FCB1910147",
+    "order_id": "order_2228281ECE0948",
+    "true_order_id_in_settlement": "order_2228281ECE0948",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 377,
+    "payment_id": "pay_196DC5DB188141",
+    "order_id": "order_F88595AD8B4440",
+    "true_order_id_in_settlement": "order_F88595AD8B4440",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 378,
+    "payment_id": "pay_240E1B8AEA4541",
+    "order_id": "order_C0DAA3CA8C2647",
+    "true_order_id_in_settlement": "order_C0DAA3CA8C2647",
+    "category": "AMOUNT_MISMATCH",
+    "is_match": true,
+    "amount_diff": -68.51
+  },
+  {
+    "true_txn_id": 379,
+    "payment_id": "pay_62B94F4947744E",
+    "order_id": "order_D94D52B45ECB42",
+    "true_order_id_in_settlement": "order_D94D52B45ECB42",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 380,
+    "payment_id": "pay_C62C319E9A694F",
+    "order_id": "order_F03944BD4E8141",
+    "true_order_id_in_settlement": "order_F03944BD4E8141",
+    "category": "DATE_DRIFT",
+    "is_match": true,
+    "reason": "settlement date drifted outside expected T+2 window"
+  },
+  {
+    "true_txn_id": 381,
+    "payment_id": "pay_5D563DD2B9B042",
+    "order_id": "order_98F47604770041",
+    "true_order_id_in_settlement": "order_98F47604770041",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 382,
+    "payment_id": "pay_55926C7C4F4C49",
+    "order_id": "order_908CEF3CE95E4B",
+    "true_order_id_in_settlement": "order_908CEF3CE95E4B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 383,
+    "payment_id": "pay_9283E6E74F6940",
+    "order_id": "order_00BC81BD1CF04B",
+    "true_order_id_in_settlement": "order_00BC81BD1CF04B",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 384,
+    "payment_id": "pay_FC8049EA1BEB49",
+    "order_id": "order_C08EA1C331F946",
+    "true_order_id_in_settlement": "order_C08EA1C331F946",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 385,
+    "payment_id": "pay_FA3EDD56E95B45",
+    "order_id": "order_53995A24877448",
+    "true_order_id_in_settlement": "order_53995A24877448",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 386,
+    "payment_id": "pay_19BDECBD613E4C",
+    "order_id": "order_650C952CCC4348",
+    "true_order_id_in_settlement": "order_650C952CCC4348",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 387,
+    "payment_id": "pay_A9EDB19A98D647",
+    "order_id": "order_D9DA33E6A7474E",
+    "true_order_id_in_settlement": "order_D9DA33E6A7474E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 388,
+    "payment_id": "pay_BE420E251A3443",
+    "order_id": "order_E4DBA49690634E",
+    "true_order_id_in_settlement": "order_E4DBA49690634E",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 389,
+    "payment_id": "pay_36519A48622A40",
+    "order_id": "order_9D2AF3D736BB47",
+    "true_order_id_in_settlement": "order_9D2AF3D736BB47",
+    "category": "MISSING_IN_LEDGER",
+    "is_match": false,
+    "reason": "no corresponding ledger entry (unrecorded order)"
+  },
+  {
+    "true_txn_id": 390,
+    "payment_id": "pay_EF890AA1890A43",
+    "order_id": "order_70C6098FAD0C44",
+    "true_order_id_in_settlement": "order_70C6098FAD0C44",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 391,
+    "payment_id": "pay_88102CB108D74B",
+    "order_id": "order_7FDF2D7BB5A848",
+    "true_order_id_in_settlement": "order_7FDF2D7BB5A848",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 392,
+    "payment_id": "pay_1A3F25427C524D",
+    "order_id": "order_55CBC4427A9E43",
+    "true_order_id_in_settlement": "order_55CBC4427A9E43",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 393,
+    "payment_id": "pay_628D83EA2B584B",
+    "order_id": "order_792760420AE046",
+    "true_order_id_in_settlement": "order_792760420AE046",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 394,
+    "payment_id": "pay_46B7463F709A45",
+    "order_id": "order_01144BF2A58044",
+    "true_order_id_in_settlement": "order_01144BF2A58044",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 395,
+    "payment_id": "pay_423E5F439DFD42",
+    "order_id": "order_916CA8394DA847",
+    "true_order_id_in_settlement": "order_916CA8394D8A47",
+    "category": "ID_AMBIGUOUS",
+    "is_match": true,
+    "reason": "order_id corrupted (typo) on settlement side, needs fuzzy match"
+  },
+  {
+    "true_txn_id": 396,
+    "payment_id": "pay_A535F8ABD58144",
+    "order_id": "order_09024266753D4A",
+    "true_order_id_in_settlement": "order_09024266753D4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 397,
+    "payment_id": "pay_DF29996A2E6E45",
+    "order_id": "order_AAB5965EF3CE4A",
+    "true_order_id_in_settlement": "order_AAB5965EF3CE4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 398,
+    "payment_id": "pay_CFFEE63CD5DD42",
+    "order_id": "order_E8A87297ABDE4A",
+    "true_order_id_in_settlement": "order_E8A87297ABDE4A",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  },
+  {
+    "true_txn_id": 399,
+    "payment_id": "pay_0A1D4122DCE74A",
+    "order_id": "order_FF788D8663BA4C",
+    "true_order_id_in_settlement": "order_FF788D8663BA4C",
+    "category": "EXACT_MATCH",
+    "is_match": true
+  }
+]
